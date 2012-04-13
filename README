@@ -21,3 +21,12 @@ Steps to execute plan:
 
 This is my new project, but if any one wants to help out I'd be pretty excited.  I'm developing this for Debian based
 Linux and then maybe adding other OS support later (much later).
+
+
+UPDATE:4.12.2012
+
+-Right now I'm trying to figure out GTK to make a simple GUI, which shouldn't be hard since it is pretty similar to
+  Swing library from Java.
+-I'm going to attempt to use the pocketsphinx library to do the speech to text analysis (supposedly this will be pretty 
+  tough)
+
