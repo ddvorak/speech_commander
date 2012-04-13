@@ -29,7 +29,7 @@ def tts(text):
 
 
 
-m = datetime.datetime.now().strftime("%I %M %S")
+
 
 if volumes == '100': 
 	tts("'Bro your volume is maxed out'")
