@@ -1,0 +1,23 @@
+Author: David Dvorak
+
+Libraries Used: alsaaudio, python-dev
+
+Purpose/Idea: To be able to be over by my kitchen sink and yell at my webcam usb microphone to turn on some Fleet Foxes,
+since I can't be bothered to go over and do it myself.
+
+
+Steps to execute plan:
+
+1.Figure out how to grab audio from webcam with python.  DONE!
+2.Figure out how to output audio with python.   DONE!
+3.Figure out how to parse audio files into regular expressions/commands. In progress
+  3a.how to parse out command to open mp3 player?
+  3b.how to parse out command to open given artist?
+
+4.Figure out how to open any mp3 player with python given a command.
+
+(optional):figure out how to make a graphical interface?
+
+
+This is my new project, but if any one wants to help out I'd be pretty excited.  I'm developing this for Debian based
+Linux and then maybe adding other OS support later (much later).
