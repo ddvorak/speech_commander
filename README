@@ -1,6 +1,6 @@
 Author: David Dvorak
 
-Libraries Used: alsaaudio, python-dev
+Libraries Used: alsaaudio, python-dev, pocketsphinx, PyGTK
 
 Purpose/Idea: To be able to be over by my kitchen sink and yell at my webcam usb microphone to turn on some Fleet Foxes,
 since I can't be bothered to go over and do it myself.
